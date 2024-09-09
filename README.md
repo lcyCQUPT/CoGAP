@@ -1,4 +1,4 @@
-![](CoGAP框架图-第 3 页.drawio.svg)
+![](Readme.assets/CoGAP框架图1.svg)
 
 
 
