@@ -1,7 +1,7 @@
 ![](Readme.assets/CoGAP框架图1.svg)
 
 
-![](Readme.assets/CoGAP框架图svg.svg)
+![](Readme.assets/CoGAP框架图2.svg)
 
 ![](Readme.assets/Res.svg)
 
