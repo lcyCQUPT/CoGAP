@@ -1,9 +1,6 @@
 ![](Readme.assets/CoGAP框架图1.svg)
 
 
-
-
-
 ![](Readme.assets/CoGAP框架图svg.svg)
 
 ![](OCT_Class/CoGAP_Pic/CoGAP.svg)
