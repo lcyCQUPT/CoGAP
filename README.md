@@ -3,7 +3,7 @@
 
 ![](Readme.assets/CoGAP框架图svg.svg)
 
-![](OCT_Class/CoGAP_Pic/CoGAP.svg)
+![](Readme.assets/Res.svg)
 
 ![](Readme.assets/res-17183508190744.png)
 
