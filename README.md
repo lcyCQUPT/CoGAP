@@ -8,7 +8,7 @@ MedMnist：https://github.com/MedMNIST/MedMNIST
 ![](Readme.assets/Res.svg)
 
 
-Schematic diagram of data heterogeneity distribution
+**Schematic diagram of data heterogeneity distribution**
 
 
 ![](Readme.assets/res-17183508190744.png)
