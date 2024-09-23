@@ -1,4 +1,4 @@
-Based on the FLGO framework, import the main function into the FLGO framework and install the framework steps to run the code.
+Based on the FLGO（https://github.com/WwZzz/easyFL） framework, import the main function into the FLGO framework and install the framework steps to run the code.
 MedMnist：https://github.com/MedMNIST/MedMNIST
 ![](Readme.assets/CoGAP框架图1.svg)
 
