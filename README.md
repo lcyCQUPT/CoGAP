@@ -1,3 +1,4 @@
+**Only the CoGAP method related code is provided, and the complete code will be provided after the paper is accepted.**
 Based on the FLGO（https://github.com/WwZzz/easyFL） framework, import the main function into the FLGO framework and install the framework steps to run the code.
 MedMnist：https://github.com/MedMNIST/MedMNIST
 ![](Readme.assets/CoGAP框架图1.svg)
