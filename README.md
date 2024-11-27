@@ -6,13 +6,7 @@ MedMnist：https://github.com/MedMNIST/MedMNIST
 ![](Readme.assets/伪代码1.png)
 ![](Readme.assets/伪代码2.png)
 ![](Readme.assets/伪代码3.png)
-
 ![](Readme.assets/Res.svg)
-
-
 **Schematic diagram of data heterogeneity distribution**
-
-
 ![](Readme.assets/res-17183508190744.png)
-
 ![](Readme.assets/res-17183508854808.png)
